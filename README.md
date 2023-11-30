@@ -8,3 +8,5 @@ I detta projekt är syftet att använda de kunskaper som hela kursen gått igeno
 Målet var att skapa en webbplats där det är lätt att läsa blogginlägg, läsa fler inlägg från bloggare man tycker är bra, samt att bli inspirerad att själv vilja registrera sig som användare och skriva om sitt egna liv. Bloggportalen ska vara rolig och lockande samtidigt som det är lätt att hitta på webbplatsen och se vilken sida besökaren befinner sig på. Blogginlägg ska vara smidigt att skriva och publicera. De ska även sedan presenteras på ett sätt som speglar det inlägg bloggaren har skrivit.
 
 Genom Objektorienterad programmering och en datas ska webbplatsens funktioner för användar- och inläggs-hantering skapas. Blogg-portalen ska vara dynamisk och uppdateras med användarnas blogginlägg. För att nå detta ska både PHP och JavaScript, tillsammans med HTML och CSS, användas. Det ska finnas funktioner på webbplatsen som förhöjer användarens upplevelse av blogg-portalen.
+
+Det saknas en config.php-fil i detta repo. Lägg till en sådan tillsammans med databasanslutning för att kunna köra webbplatsen.
